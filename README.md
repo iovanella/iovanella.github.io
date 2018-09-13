@@ -31,7 +31,7 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 ## Book chapters
 
 - Cinelli, M., Ferraro, G., Iovanella, A. (2016). _Some insights into the relevance of nodes' characteristics in complex network structures_, in Fronzetti Colladon A. and Gloor P. (eds) Proceeding of the 6th International COINS Conference. Designing Networks for Innovation and Improvisation, Springer Proceeding in Complexity.
--	Ferraro, G., Iovanella, A. (2014). _A network science approach to inter-organizational innovation networks: The case study of Enterprise Europe network_, Proceeding of ICCSA, pp. 117-127.
+-	Ferraro, G., Iovanella, A. (2014). _A network science approach to inter-organizational innovation networks: The case study of Enterprise Europe Network_, Proceeding of ICCSA, pp. 117-127.
 -	E. Machuca, L. Mandow, J.L. Pèrez de la Cruz, A. Iovanella, _Heuristic Multiobjective Search for Hazmat Transportation Problems_, in Advances in Artificial Intelligence, Lecture Notes in Computer Science, 7023 (2011), 243-252.
 -	A. Iovanella, B. Scoppola, S. Pozzi, A. Tedeschi, _The impact of 4-D trajectories on arrival delay in mixed traffic scenario_, in Schaefer, Dirk (ed) Proceedings of the SESAR Innovation Days (Tolosa, 2011) EUROCONTROL. ISBN 978-2-87497-024-5. 
 -	A. Iovanella, G. Lulli, B. Scoppola, _Out-of-equilibrium effects for queueing system with pre-scheduled random arrivals_, in Proceedings of the 1° ComplexWorld Annual Conference, Siviglia, 2011.
