@@ -5,6 +5,13 @@ I am a scientific officier at the [Department of Enterprise Engineering](http://
 
 I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 to 2010 I was a research fellow at the [Department of Enterprise Engineering](http://dii.uniroma2.it), then I had a permanent position as scientific officier at the same University.
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8147-3747" href="https://orcid.org/0000-0001-8147-3747" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-8147-3747</a></div>
+
+
+Scopus Author ID: 6508080221
+
+ResearcherID: J-9233-2012
+
 Address:
 
 Department of Enterprise Engineering,
