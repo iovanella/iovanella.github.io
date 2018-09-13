@@ -33,7 +33,18 @@ Email: antonio.iovanella_at_uniroma2.it
 -	M. Caramia, S. Giordani, A. Iovanella, _GRID Scheduling by multiple on-line rectangle packing_, Networks, 44 (2), (2004), 106-119.
 -	M. Caramia, P. Dell'Olmo, A. Iovanella, _On-Line Algorithms for Multiprocessor Task Scheduling with Ready Times_, Foundations of Computing and Decision Sciences, 26 (3), (2001), 197-214.
 
+## Book chapters
 
+- Cinelli, M., Ferraro, G., Iovanella, A. (2016). _Some insights into the relevance of nodes' characteristics in complex network structures_, in Fronzetti Colladon A. and Gloor P. (eds) Proceeding of the 6th International COINS Conference. Designing Networks for Innovation and Improvisation, Springer Proceeding in Complexity.
+-	Ferraro, G., Iovanella, A. (2014). _A network science approach to inter-organizational innovation networks: The case study of Enterprise Europe network_, Proceeding of ICCSA, pp. 117-127.
+-	E. Machuca, L. Mandow, J.L. Pèrez de la Cruz, A. Iovanella, _Heuristic Multiobjective Search for Hazmat Transportation Problems_, in Advances in Artificial Intelligence, Lecture Notes in Computer Science, 7023 (2011), 243-252.
+-	A. Iovanella, B. Scoppola, S. Pozzi, A. Tedeschi, _The impact of 4-D trajectories on arrival delay in mixed traffic scenario_, in Schaefer, Dirk (ed) Proceedings of the SESAR Innovation Days (Tolosa, 2011) EUROCONTROL. ISBN 978-2-87497-024-5. 
+-	A. Iovanella, G. Lulli, B. Scoppola, _Out-of-equilibrium effects for queueing system with pre-scheduled random arrivals_, in Proceedings of the 1° ComplexWorld Annual Conference, Siviglia, 2011.
+-	S. Armenia, A. Iovanella, G. F. Italiano, G. Murgia, _Using social network analysis for the study of asynchronous interaction in e-learning_, in Proceedings of International Conference on e-Learning (ICEL 2006), Academic Conferences Limited, 2006, p 207-216.
+-	M. Caramia, S. Giordani, A. Iovanella, _An on-line algorithm for the rectangle packing problem with rejection_, in Experimental and Efficient Algorithms, Lecture Notes in Computer Science, 2647, (2003), 59-69.
+-	E. Bampis, M. Caramia, J. Fiala, A. V. Fishkin, A. Iovanella, _Scheduling of independent dedicated multiprocessor tasks_, in Algorithms and Computation, Lecture Notes in Computer Science, 2518, (2002), 391-402.
+-	M. Caramia, P. Carotenuto, A. Iovanella, S. Giordani, _Using Rejection Methods in a DSS for Production Strategies_, in Knowledge and Technology Integration in Production and Services, Kluwer Academic Publishers, Boston, 2002, p. 419-426.
+-	A. Calabrese, M. Caramia, A. Iovanella, _A decision support system for a turnaround process_, in Beyond the Boundaries, Global Business and Technology Association, 2002, p. 152-161.
 
 
 ## Welcome to GitHub Pages
