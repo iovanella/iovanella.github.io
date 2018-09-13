@@ -14,6 +14,25 @@ Via del Politecnico, 1 – 00133, Rome, Italy
 Email: antonio.iovanella_at_uniroma2.it
 
 ## Publications
+-	Cinelli, M., Ferraro, G., Iovanella, A. (to appear). _Network processes for collaborative innovation_, International Journal of Entrepreneurship and Small Business, DOI: 10.1504/IJESB.2019.10011453.
+- Cerqueti, R., Ferraro, G., Iovanella, A. (2018) _A new measure for community structure through indirect social connections_, Expert Systems with Applications, 114, pp. 196-209. DOI: 10.1016/j.eswa.2018.07.040
+- Cinelli, M., Ferraro, G., Iovanella, A. (2018). _Rich-club ordering and the dyadic effect: Two interrelated phenomena_, Physica A: Statistical Mechanics and its Applications, 490, pp. 808-818.
+- Ferraro, G., Iovanella, A., (2018). _Clairvoyant targeted attack on complex networks_, International Journal of Computational Economics and Econometrics, 8 (1), pp. 41-62. 
+- Cinelli, M., Ferraro, G., Iovanella, A., Lucci, G., Schiraldi, M.M. (2017). _A network perspective on the visualization and analysis of bill of materials_, International Journal of Engineering Business Management, 9, pp. 1-11.
+- Cinelli, M., Ferraro, G., Iovanella, A. (2017). _Resilience of core-periphery networks in the case of rich-club_, Complexity, 2017, 6548362.
+-	Cinelli, M., Ferraro, G., Iovanella, A. (2017). _Structural bounds on the dyadic effect_, Journal of Complex Networks, 5(5), cnx002, pp. 694-711.
+-	Ferraro, G., Iovanella, A. (2017). _Technology transfer in innovation networks: An empirical study of the Enterprise Europe Network_, International Journal of Engineering Business Management, 9.
+-	Ferraro, G., Iovanella, A., Pratesi, G. (2016). _On the influence of nodes’ characteristic in inter-organisational innovation networks structure_, International Journal of Computational Economics and Econometrics, 6 (3), pp. 239-257. 
+-	Ferraro, G., Iovanella, A. (2016). _Revealing correlations between structure and innovation attitude in inter-organisational innovation networks_, International Journal of Computational Economics and Econometrics, 6 (1), pp. 93-113.
+-	Ferraro, G., Iovanella, A. (2015). _Organizing collaboration in inter-organizational innovation networks, from orchestration to choreography_, International Journal of Engineering Business Management, 7 (24), pp. 1-14. 
+-	Caccavale, M.V., Iovanella, A., Lancia, C., Lulli, G., Scoppola, B. (2014). _A model of inbound air traffic: The application to Heathrow airport_, Journal of Air Transport Management, 34, pp. 116-122.
+-	M. Caramia, S. Giordani, A. Iovanella, _On the selection of k routes in multi-objective hazmat route planning_, IMA Journal of Management and Mathematics, 21 (3), 2010, 253-265.
+-	P. Dell’Olmo, A. Iovanella, G. Lulli, B. Scoppola, _Exploiting incomplete information to manage multiprocessor tasks with variable arrival rates_, Computers and Operations Research, 35, 2008, 1689-1600.
+-	A. Iovanella, B. Scoppola, E. Scoppola, _Some spin glass ideas applied to the clique problem_, Journal of Statistical Physics, 16 (4/5), 2007, 895-915.
+-	M. Caramia, P. Dell'Olmo, A. Iovanella, _Lower Bound Algorithms for Multiprocessor Task Scheduling with Ready Times_, International Transactions in Operational Research, 12 (5), 2005, 481-508.
+-	M. Caramia, S. Giordani, A. Iovanella, _GRID Scheduling by multiple on-line rectangle packing_, Networks, 44 (2), (2004), 106-119.
+-	M. Caramia, P. Dell'Olmo, A. Iovanella, _On-Line Algorithms for Multiprocessor Task Scheduling with Ready Times_, Foundations of Computing and Decision Sciences, 26 (3), (2001), 197-214.
+
 
 
 
