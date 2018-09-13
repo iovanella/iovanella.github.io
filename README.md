@@ -4,8 +4,6 @@ I am a scientific officier at the [Department of Enterprise Engineering](http://
 I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 to 2010 I was a research fellow at the [Department of Enterprise Engineering](http://dii.uniroma2.it), then I had a permanent position as scientific officier at the same University.
 
 - ORCID ID: [orcid.org/0000-0001-8147-3747](orcid.org/0000-0001-8147-3747)
-- Scopus Author ID: 6508080221
-- ResearcherID: J-9233-2012
 - [Google Scholar Profile](https://scholar.google.it/citations?user=Df1ocvAAAAAJ&hl=it)
 - Address: Department of Enterprise Engineering, University of Rome Tor Vergata, Via del Politecnico, 1 – 00133, Rome, Italy
 - Email: antonio.iovanella_at_uniroma2.it
