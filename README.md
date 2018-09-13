@@ -1,5 +1,5 @@
 
-I am a scientific officier at the [Department of Enterprise Engineering](http://dii.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it). My main research interests are in complex network and social network analysis, in particular the use in resilience analysis, combinatorial implications and application in management. I am an agent professor in Complex Economics at the [Faculty of Engineering](http://gestionale.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it).
+I am a scientific officier at the [Department of Enterprise Engineering](http://dii.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it). My main research interests are in complex networks and social network analysis, in particular the use in resilience analysis, combinatorial implications and application in management. I am an agent professor in Complex Economics at the [Faculty of Engineering](http://gestionale.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it).
 
 I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 to 2010 I was a research fellow at the [Department of Enterprise Engineering](http://dii.uniroma2.it), then I had a permanent position as scientific officier at the same University.
 
