@@ -17,3 +17,5 @@ Authors:
 - δ is the discount factor, is limited in (0, 1)
 - Γ is the propagation vector
 - Θ is the coefficients vector for the convex combination
+
+In order to run the code, set the correct choice for Γ and Θ whitin the code in file mu.r, than consider file launcher.r.
