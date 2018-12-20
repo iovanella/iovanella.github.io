@@ -19,3 +19,5 @@ Authors:
 - Θ is the coefficients vector for the convex combination
 
 In order to run the code, set the correct choice for Γ and Θ whitin the code in file mu.r, than consider file launcher.r.
+
+We thanks also Kevin Mader to let available the code on his page at web address https://www.kaggle.com/kmader/network-resilience/notebook.
