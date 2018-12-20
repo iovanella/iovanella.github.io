@@ -5,7 +5,7 @@ Please uncomment the lines as your choice. Please note that the code is not opti
 Any comments or corrections are really welcome.
 
 ## Publication
-The publication titled: Measuring network resilience through connection patterns is available at https://arxiv.org/abs/1808.07731
+The publication titled: **Measuring network resilience through connection patterns** is available at https://arxiv.org/abs/1808.07731
 
 Authors:
 - Roy Cerqueti
