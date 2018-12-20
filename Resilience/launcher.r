@@ -25,3 +25,16 @@ for(i in 1: length(delta))
   }
 end_time <- Sys.time()
 end_time - start_time
+
+#### Plot the results
+Rs <- setNames(reshape::melt(results), c("δ", "ξ", "μ"))
+library(lattice)
+wireframe(μ ~ δ*ξ, data = Rs, drape = T,
+           scales = list(arrows = FALSE, fontfamily = "Times"),
+           zlab = expression(mu),
+           xlab = expression(delta),
+           ylab = expression(xi),
+           main = expression(mu~"for Illinois airport network"),
+           #col = mycol,
+           col.regions = topo.colors(100),
+           screen = list(z = 45, x = -60, y = 0))
