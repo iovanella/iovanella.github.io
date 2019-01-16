@@ -12,7 +12,7 @@ if (full_parameter_sweep) {
     xi <- c(0, 1)    
 }
 
-# If the original network does not has a weight attribute please create it with the value you want to study.
+# If the original network does not have a weight attribute please create it with the value you want to study.
 E(G)$weight <- E(your_network)$value
 
 #### LAUNCHER
