@@ -1,3 +1,5 @@
+G <- your_network
+
 # set the max value of xi at least as the double of the longest path
 full_parameter_sweep <- T
 if (full_parameter_sweep) {
@@ -9,6 +11,9 @@ if (full_parameter_sweep) {
     delta <- c(0.0, 1.0)
     xi <- c(0, 1)    
 }
+
+# If the original network does not has a weight attribute please create it with the value you want to study.
+E(G)$weight <- E(your_network)$value
 
 #### LAUNCHER
 # this part of the code runs the simulation for every values of ξ and δ
