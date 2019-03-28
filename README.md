@@ -10,7 +10,7 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 
 ## Publications
 - Cerqueti, R., Ferraro, G., Iovanella, A. (2019) _Measuring network resilience through connection patterns_, Reliability Engineering and System Safety, 188, pp. 320-329. DOI: 10.1016/j.ress.2019.03.030.
--	Cinelli, M., Ferraro, G., Iovanella, A. (to appear). _Network processes for collaborative innovation_, International Journal of Entrepreneurship and Small Business, 36(4), pp. 430-452 DOI: 10.1504/IJESB.2019.10011453.
+-	Cinelli, M., Ferraro, G., Iovanella, A. (2019). _Network processes for collaborative innovation_, International Journal of Entrepreneurship and Small Business, 36(4), pp. 430-452 DOI: 10.1504/IJESB.2019.10011453.
 - Cerqueti, R., Ferraro, G., Iovanella, A. (2018) _A new measure for community structure through indirect social connections_, Expert Systems with Applications, 114, pp. 196-209. DOI: 10.1016/j.eswa.2018.07.040
 - Cinelli, M., Ferraro, G., Iovanella, A. (2018). _Rich-club ordering and the dyadic effect: Two interrelated phenomena_, Physica A: Statistical Mechanics and its Applications, 490, pp. 808-818.
 - Ferraro, G., Iovanella, A., (2018). _Clairvoyant targeted attack on complex networks_, International Journal of Computational Economics and Econometrics, 8 (1), pp. 41-62. 
