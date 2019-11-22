@@ -9,6 +9,7 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 - Email: antonio.iovanella_at_uniroma2.it
 
 ## Publications
+- Arpetti, J., Iovanella, A. (2020). _Towards more effective consumer steering via network analysis_, European Journal of Law and Economics, to appear.
 - Cinelli, M., Ferraro, G., Iovanella, A., Rotundo G. (2019). _Assessing the impact of incomplete information on the resilience of financial networks_, Annals of Operations Research, to appear. DOI: 10.1007/s10479-019-03306-y.
 - Cinelli, M., Ferraro, G., Iovanella (2019). _Evaluating relevance and redundancy to quantify how binary node metadata interplay with the network structure_, Scientific Reports, 9, Article: 11404, DOI: 10.1038/s41598-019-47717-0.
 - Cerqueti, R., Ferraro, G., Iovanella, A. (2019) _Measuring network resilience through connection patterns_, Reliability Engineering and System Safety, 188, pp. 320-329. DOI: 10.1016/j.ress.2019.03.030.
