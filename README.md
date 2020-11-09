@@ -35,6 +35,7 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 
 ## Book chapters
 
+- Cinelli, M., Ferraro, G., Iovanella, A., Lucci, G., Schiraldi, M.M. (2020). _A network perspective for the analysis of bill of materials_, Procedia CIRP 88C, pp. 19-24.
 - Cinelli, M., Ferraro, G., Iovanella, A. (2016). _Some insights into the relevance of nodes' characteristics in complex network structures_, in Fronzetti Colladon A. and Gloor P. (eds) Proceeding of the 6th International COINS Conference. Designing Networks for Innovation and Improvisation, Springer Proceeding in Complexity.
 -	Ferraro, G., Iovanella, A. (2014). _A network science approach to inter-organizational innovation networks: The case study of Enterprise Europe Network_, Proceeding of ICCSA, pp. 117-127.
 -	E. Machuca, L. Mandow, J.L. Pèrez de la Cruz, A. Iovanella, _Heuristic Multiobjective Search for Hazmat Transportation Problems_, in Advances in Artificial Intelligence, Lecture Notes in Computer Science, 7023 (2011), 243-252.
