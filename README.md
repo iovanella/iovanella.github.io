@@ -10,8 +10,8 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 
 ## Publications
 - Cinelli, M., Peel, L., Iovanella A., Delvenne J. C. (2020). _Network constraints on the mixing patterns of binary node metadata_, Physical Review E, to appear; preprint available at https://arxiv.org/abs/1908.04588.
-- Arpetti, J., Iovanella, A. (2020). _Towards more effective consumer steering via network analysis_, European Journal of Law and Economics, to appear.
 - Cinelli, M., Ferraro, G., Iovanella, A., Rotundo G. (2019). _Assessing the impact of incomplete information on the resilience of financial networks_, Annals of Operations Research, to appear. DOI: 10.1007/s10479-019-03306-y.
+- Arpetti, J., Iovanella, A. (2020). _Towards more effective consumer steering via network analysis_, European Journal of Law and Economics, 5, pp. 359-380.
 - Cinelli, M., Ferraro, G., Iovanella (2019). _Evaluating relevance and redundancy to quantify how binary node metadata interplay with the network structure_, Scientific Reports, 9, Article: 11404, DOI: 10.1038/s41598-019-47717-0.
 - Cerqueti, R., Ferraro, G., Iovanella, A. (2019) _Measuring network resilience through connection patterns_, Reliability Engineering and System Safety, 188, pp. 320-329. DOI: 10.1016/j.ress.2019.03.030.
 -	Cinelli, M., Ferraro, G., Iovanella, A. (2019). _Network processes for collaborative innovation_, International Journal of Entrepreneurship and Small Business, 36(4), pp. 430-452 DOI: 10.1504/IJESB.2019.10011453.
