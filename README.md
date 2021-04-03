@@ -1,15 +1,15 @@
 
-I am a scientific officer at the [Department of Enterprise Engineering](http://dii.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it). My main research interests are in complex networks and social network analysis, in particular the use in resilience analysis, combinatorial implications and application in management. In the past years, I was adjunct professor in Complex Economics at the [Faculty of Engineering](http://gestionale.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it). Actually, I am adjunct professor in Social Network Analysis at the [LUMSA University](https://www.lumsa.it/antonio-iovanella) in Rome.
+I am an Assistant Professor at the Faculty of Economics, [University of International Studies of Rome](https://www.unint.eu/it/). My main research interests are in complex networks and social network analysis, in particular the use in resilience analysis, combinatorial implications and application in management. In the past years, I was adjunct professor in Complex Economics at the [Faculty of Engineering](http://gestionale.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it) and in Social Network Analysis at the [LUMSA University](https://www.lumsa.it/antonio-iovanella) in Rome. Actually, I am adjunct professor in Mathematics for economics and business and Mathematics of information and technological networks at [University of International Studies of Rome](https://www.unint.eu/it/) in Rome.
 
 I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 to 2010 I was a research fellow at the [Department of Enterprise Engineering](http://dii.uniroma2.it) at the University of Rome Tor Vergata, then I had a permanent position as scientific officer at the same University.
 
 - ORCID ID: [orcid.org/0000-0001-8147-3747](orcid.org/0000-0001-8147-3747)
 - [Google Scholar Profile](https://scholar.google.it/citations?user=Df1ocvAAAAAJ&hl=it)
-- Address: Department of Enterprise Engineering, University of Rome Tor Vergata, Via del Politecnico, 1 – 00133, Rome, Italy
-- Email: antonio.iovanella_at_uniroma2.it
+- Address: Faculty of Economics, University of International Studies of Rome, Via Cristoforo Colombo 200, Rome, Italy
+- Email: antonio.iovanella_at_unint.eu
 
 ## Publications
-- Cinelli, M., Ferraro, G., Iovanella, A., Rotundo G. (to appear). _Assessing the impact of incomplete information on the resilience of financial networks_, Annals of Operations Research, DOI: 10.1007/s10479-019-03306-y.
+- Cinelli, M., Ferraro, G., Iovanella, A., Rotundo G. (2021). _Assessing the impact of incomplete information on the resilience of financial networks_, Annals of Operations Research, 299, pp. 721–745.
 - Cinelli, M., Peel, L., Iovanella A., Delvenne J. C. (2020). _Network constraints on the mixing patterns of binary node metadata_, Physical Review E 102, 062310.
 - Arpetti, J., Iovanella, A. (2020). _Towards more effective consumer steering via network analysis_, European Journal of Law and Economics, 50(3), pp. 359-380.
 - Cinelli, M., Ferraro, G., Iovanella (2019). _Evaluating relevance and redundancy to quantify how binary node metadata interplay with the network structure_, Scientific Reports, 9, Article: 11404, DOI: 10.1038/s41598-019-47717-0.
