@@ -9,7 +9,7 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 - Email: antonio.iovanella_at_unint.eu
 
 ## Publications
-- Cinelli, M., Ferraro, G., Iovanella, A. (2022). _Connections matter: a proxy measure for evaluating network membership with an application to the Seventh Research Framework Programme_, Scientometrics, to appear.
+- Cinelli, M., Ferraro, G., Iovanella, A. (2022). _Connections matter: a proxy measure for evaluating network membership with an application to the Seventh Research Framework Programme_, Scientometrics, 127, pages 3959–3976.
 - Aloini, D., Ferraro, G., Iovanella, A., Stefanini, A. (2022). _Rethinking healthcare teams’ practices using network science: implications, challenges, and benefits_, Applied Sciences, 12, 5841.
 - Cerqueti, R. Cinelli, M., Ferraro, G., Iovanella, A. (2022). _Financial interbanking networks resilience under shocks propagation_, Annals of Operations Research, to appear, DOI: 10.1007/s10479-022-04567-w.
 - Cinelli, M., Ferraro, G., Iovanella, A., Rotundo G. (2021). _Assessing the impact of incomplete information on the resilience of financial networks_, Annals of Operations Research, 299, pp. 721–745.
