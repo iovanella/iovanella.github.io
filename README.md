@@ -9,7 +9,7 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 - Email: antonio.iovanella_at_unint.eu
 
 ## Publications
-- Cerqueti, R., Iovanella, A., Mattera, R., (2023). _Clustering networked funded European research activities through rank-size laws_, Annals of Operations Research, to appear.
+- Cerqueti, R., Iovanella, A., Mattera, R., (2023). _Clustering networked funded European research activities through rank-size laws_, Annals of Operations Research, to appear, DOI: 10.1007/s10479-023-05321-6.
 - Cerqueti, R., Cinelli, M., Ferraro, G., Iovanella, A. (2023). _Financial interbanking networks resilience under shocks propagation_, Annals of Operations Research, to appear, DOI: 10.1007/s10479-022-04567-w.
 - Ancona, A., Cinelli, M., Ferraro, G., Iovanella, A. (2023). _Network-based principles of entrepreneurial ecosystems: a case study of a start-up network_, Small Business Economics, DOI: 10.1007/s11187-023-00738-6.
 - Cinelli, M., Ferraro, G., Iovanella, A. (2022). _Connections matter: a proxy measure for evaluating network membership with an application to the Seventh Research Framework Programme_, Scientometrics, 127, pages 3959–3976.
