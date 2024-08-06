@@ -9,7 +9,8 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 - Email: antonio.iovanella_at_unint.eu
 
 ## Publications
-- Iovanella, A. (2023). _Exploiting Network Science in Business Process Management: A Conceptual Framework_, Chaos, Solitons and Fractals, to appear.
+- Ferraro, G., Iovanella, A., Ramponi, A., Rotundo, G. (2024). _Promoting sustainability goals: innovation trajectories of Fintech through patent analysis_, Annals of Operations Research, to appear.
+- Iovanella, A. (2024). _Exploiting Network Science in Business Process Management: A Conceptual Framework_, Chaos, Solitons and Fractals, 178, 114344.
 - Cerqueti, R., Iovanella, A., Mattera, R., (2023). _Clustering networked funded European research activities through rank-size laws_, Annals of Operations Research, to appear, DOI: 10.1007/s10479-023-05321-6.
 - Ancona, A., Cinelli, M., Ferraro, G., Iovanella, A. (2023). _Network-based principles of entrepreneurial ecosystems: a case study of a start-up network_, Small Business Economics, DOI: 10.1007/s11187-023-00738-6.
 - Cerqueti, R., Cinelli, M., Ferraro, G., Iovanella, A. (2023). _Financial interbanking networks resilience under shocks propagation_, Annals of Operations Research, 330, pp. 389-409.
