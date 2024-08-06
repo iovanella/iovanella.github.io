@@ -20,9 +20,9 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 - Cinelli, M., Peel, L., Iovanella A., Delvenne J. C. (2020). _Network constraints on the mixing patterns of binary node metadata_, Physical Review E 102, 062310.
 - Arpetti, J., Iovanella, A. (2020). _Towards more effective consumer steering via network analysis_, European Journal of Law and Economics, 50(3), pp. 359-380.
 - Cinelli, M., Ferraro, G., Iovanella (2019). _Evaluating relevance and redundancy to quantify how binary node metadata interplay with the network structure_, Scientific Reports, 9, Article: 11404, DOI: 10.1038/s41598-019-47717-0.
-- Cerqueti, R., Ferraro, G., Iovanella, A. (2019) _Measuring network resilience through connection patterns_, Reliability Engineering and System Safety, 188, pp. 320-329. DOI: 10.1016/j.ress.2019.03.030.
--	Cinelli, M., Ferraro, G., Iovanella, A. (2019). _Network processes for collaborative innovation_, International Journal of Entrepreneurship and Small Business, 36(4), pp. 430-452 DOI: 10.1504/IJESB.2019.10011453.
-- Cerqueti, R., Ferraro, G., Iovanella, A. (2018) _A new measure for community structure through indirect social connections_, Expert Systems with Applications, 114, pp. 196-209. DOI: 10.1016/j.eswa.2018.07.040
+- Cerqueti, R., Ferraro, G., Iovanella, A. (2019) _Measuring network resilience through connection patterns_, Reliability Engineering and System Safety, 188, pp. 320-329.
+-	Cinelli, M., Ferraro, G., Iovanella, A. (2019). _Network processes for collaborative innovation_, International Journal of Entrepreneurship and Small Business, 36(4), pp. 430-452.
+- Cerqueti, R., Ferraro, G., Iovanella, A. (2018) _A new measure for community structure through indirect social connections_, Expert Systems with Applications, 114, pp. 196-209.
 - Cinelli, M., Ferraro, G., Iovanella, A. (2018). _Rich-club ordering and the dyadic effect: Two interrelated phenomena_, Physica A: Statistical Mechanics and its Applications, 490, pp. 808-818.
 - Ferraro, G., Iovanella, A., (2018). _Clairvoyant targeted attack on complex networks_, International Journal of Computational Economics and Econometrics, 8 (1), pp. 41-62. 
 - Cinelli, M., Ferraro, G., Iovanella, A., Lucci, G., Schiraldi, M.M. (2017). _A network perspective on the visualization and analysis of bill of materials_, International Journal of Engineering Business Management, 9, pp. 1-11.
