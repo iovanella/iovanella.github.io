@@ -1,5 +1,5 @@
 
-I am an Assistant Professor at the Department of International Humanities and Social Sciences, [University of International Studies of Rome](https://www.unint.eu/it/). My main research interests are in complex networks and social network analysis, in particular the applications in resilience analysis, combinatorial implications and application in management. In the past years, I was adjunct professor in Complex Economics at the [Faculty of Engineering](http://gestionale.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it) and in Social Network Analysis at the [LUMSA University](https://www.lumsa.it/antonio-iovanella) in Rome. Actually, I am teaching Mathematics for economics and business and Mathematics of information and technological networks at [University of International Studies of Rome](https://www.unint.eu/it/).
+I am an Assistant Professor (Tenure Track) at the Department of International Humanities and Social Sciences, [University of International Studies of Rome](https://www.unint.eu/it/). My main research interests are in complex networks and social network analysis, in particular the applications in resilience analysis, combinatorial implications and application in management. In the past years, I was adjunct professor in Complex Economics at the [Faculty of Engineering](http://gestionale.uniroma2.it) at the [University of Rome Tor Vergata](http://web.uniroma2.it) and in Social Network Analysis at the [LUMSA University](https://www.lumsa.it/antonio-iovanella) in Rome. Actually, I am teaching Mathematics for economics and business and Mathematics of information and technological networks at [University of International Studies of Rome](https://www.unint.eu/it/).
 
 I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 to 2010 I was a research fellow at the [Department of Enterprise Engineering](http://dii.uniroma2.it) at the University of Rome Tor Vergata, then I had a permanent position as scientific officer at the same University.
 
@@ -9,6 +9,7 @@ I did my Ph.D. at the [Sapienza University of Rome](www.uniroma1.it). From 1999 
 - Email: antonio.iovanella_at_unint.eu
 
 ## Publications
+- Cerqueti, R., Iovanella, A., Mattera, R. Storani, S. (2024). _Improving the explainability of autoencoder factors for commodities through forecast-based Shapely values_, Scientific Reports, to appear.
 - Ferraro, G., Iovanella, A., Ramponi, A., Rotundo, G. (2024). _Promoting sustainability goals: innovation trajectories of Fintech through patent analysis_, Annals of Operations Research, to appear.
 - Iovanella, A. (2024). _Exploiting Network Science in Business Process Management: A Conceptual Framework_, Chaos, Solitons and Fractals, 178, 114344.
 - Cerqueti, R., Iovanella, A., Mattera, R., (2023). _Clustering networked funded European research activities through rank-size laws_, Annals of Operations Research, to appear, DOI: 10.1007/s10479-023-05321-6.
