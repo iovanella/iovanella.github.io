@@ -9,7 +9,7 @@ I did my PhD at the [Sapienza University of Rome](www.uniroma1.it). From 1999 to
 - Email: antonio.iovanella_at_unint.eu
 
 ## Publications
-- Ferraro, G., Iovanella, A., Ramponi, A., Rotundo, G. (2024). _Promoting sustainability goals: innovation trajectories of Fintech through patent analysis_, Annals of Operations Research, to appear.
+- Ferraro, G., Iovanella, A., Ramponi, A., Rotundo, G. (2024). _Promoting sustainability goals: innovation trajectories of Fintech through patent analysis_, Annals of Operations Research, to appear, DOI: 10.1007/s10479-024-06258-0.
 - Cerqueti, R., Iovanella, A., Mattera, R. Storani, S. (2024). _Improving the explainability of autoencoder factors for commodities through forecast-based Shapely values_, Scientific Reports, 14, 19622.
 - Iovanella, A. (2024). _Exploiting Network Science in Business Process Management: A Conceptual Framework_, Chaos, Solitons and Fractals, 178, 114344.
 - Cerqueti, R., Iovanella, A., Mattera, R., (2023). _Clustering networked funded European research activities through rank-size laws_, Annals of Operations Research, to appear, DOI: 10.1007/s10479-023-05321-6.
